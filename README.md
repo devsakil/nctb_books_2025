@@ -1,41 +1,65 @@
-<b>APP PRIVACY POLICY :</b>
+# বোর্ড বইসমূহ ২০২৫ | NCTB Books 2025
 
-Joytech Foundation (&ldquo;we&rdquo; or &ldquo;us&rdquo; or &ldquo;our&rdquo;) respects the privacy of our users (&ldquo;user&rdquo; or &ldquo;you&rdquo;). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application (the &ldquo;বোর্ড বই সমূহ&rdquo;). Please read this Privacy Policy carefully. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APPLICATION.
+![Play Store Feature Image](https://play-lh.googleusercontent.com/t_r7QedJyXEkuRTkDZywiR4ioJQwnxTbOiiovSfYstciPGSH_snbFqeloevlvzh6p6c=w832-h470-rw)
 
-We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the &ldquo; Last updated&rdquo; date of this Privacy Policy. You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Application after the date such revised Privacy Policy is posted.
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.joytech.boardbooks.nctb">
+    <img src="https://texttofloss.com/wp-content/uploads/2021/01/Google-Play-Store-Button.png" alt="Download on the Play Store" width="200"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/devsakil/nctb_books_2025/download-page/nctb-books-2025.apk">
+    <img src="https://www.newglasstech.com/images/pages/Download-Button.jpg" alt="Download APK" width="200"/>
+  </a>
+</p>
 
-<b>COLLECTION OF YOUR INFORMATION</b>
+<br>
 
-We may collect information about you in a variety of ways. The information we may collect via the Application depends on the content and materials you use and includes:
+### 📚 বোর্ড বইসমূহ ২০২৫ | NCTB Books 2025 | Class 1-12
 
-<b>Personal Data</b>
+🌟 অ্যাপটি কেন ব্যবহার করবেন?
+এই অ্যাপটি ২০২৫ সালের সকল এনসিটিবি বই 📖 সহজেই পড়া ও ডাউনলোডের 🖥️ সুবিধা প্রদান করে। বাংলাদেশি শিক্ষার্থীদের জন্য এটি একটি নির্ভরযোগ্য এবং বিজ্ঞাপনমুক্ত 🚫 (NO ADS) সমাধান।
+<br>
 
-Joytech Foundation has obtained from you some personal information today. This information is sufficient to identify you and enable you to communicate with you by the means that you have elected (such as email) and for specified purposes (such as keeping up to date with Joytech Foundation’ work). Since you have elected to receive further information from Joytech Foundation, such as our newsletter, then we have to retain contact information, including your identity and contact details, for as long as you wish to continue to receive information from us. We will contact you once every year in order to verify that you wish us to continue to contact you in this way.
+##### ✨ ফিচার সমূহ:
 
-We, therefore, hold your information for these purposes with your consent.
+✅ বই ডাউনলোড: পছন্দের বই ডাউনলোড করে অফলাইনে পড়ার সুযোগ।  
+✅ অনলাইনে বই পড়া: সরাসরি অ্যাপ থেকে বই পড়ুন 📖।
+✅ জেনারেল কুইজ গেম: শিক্ষার্থীদের জন্য একটি মজার কুইজ 🧩 খেলার সুবিধা।  
+✅ পেজ জাম্প অপশন: যেকোনো পেজে সরাসরি চলে যাওয়ার জন্য দ্রুত নেভিগেশন।  
+✅ কোনো বিজ্ঞাপন নেই (NO ADS): অ্যাপটি সম্পূর্ণ বিজ্ঞাপনমুক্ত 🚫।
 
-<b>Mobile Device Access</b>
+<br/>
 
-We may request access or permission to certain features from your mobile device, specifically your mobile device&rsquo;s Internet, Network Access State, Location Access, External storage write permission, External storage permission, etc. If you wish to change our access or permissions, you may do so in your device&rsquo;s settings.
+#### 📚 উপলভ্য বইসমূহ (Class-wise):
 
-<b>Push Notifications</b>
+<b>📝 প্রাক প্রাথমিক (Pre-Primary):</b> প্রাক প্রাথমিক বা শিশু শ্রেণীর সকল বই।
 
-We may request to send you to push notifications regarding your account or the Application. If you wish to opt out from receiving these types of communications, you may turn them off in your device&rsquo;s settings.
+<b>📚 প্রাথমিক (Primary):</b> প্রথম থেকে পঞ্চম শ্রেণীর সকল বই।
 
-<b>USE OF YOUR INFORMATION</b>
+<b>📘 ইবতেদায়ি (Ibtedayi):</b> মাদ্রাসার জন্য বিশেষ বই।
 
-Having accurate information about you permits us to provide you with a smooth, efficient, and customized experience. Specifically, we may use information collected about you via the Application to:
+<b>📙 মাধ্যমিক ও দাখিল (Secondary & Dakhil):</b> ষষ্ঠ থেকে দশম শ্রেণীর সাধারণ এবং মাদ্রাসা বই।
 
-<ul>
-<li><em>Your storage is used to save the books.</em></li>
-<li><em>Your storage is used to save a copy of your settings.</em></li>
-<li><em>Your mobile Network state data is used to check if we can download the needed data.</em></li>
-</ul>
+<b>📗 উচ্চ মাধ্যমিক (Higher Secondary):</b> একাদশ ও দ্বাদশ শ্রেণীর সকল বই।
 
-<b>DISCLOSURE OF YOUR INFORMATION</b>
+<br>
 
-None of your data is exchanged, stored, or used by any third party or by us, other than being used by the email delivery system and by Google Drive which only saves a copy of your settings on your Google Drive account.
+#### 📚 শ্রেণীভিত্তিক বইয়ের তালিকা:
 
-<b>CONTACT US</b>
+<b>Class 1:</b> প্রথম শ্রেণীর সকল বই ২০২৫ ।
+<b>Class 2:</b> দ্বিতীয় শ্রেণীর বই ২০২৫।
+<b>Class 3:</b> তৃতীয় শ্রেণীর বই ২০২৫।
+<b>Class 4:</b> চতুর্থ শ্রেণীর বই ২০২৫।
+<b>Class 5:</b> পঞ্চম শ্রেণীর বই ২০২৫।
+<b>Class 6:</b> ষষ্ঠ শ্রেণীর সকল বই ২০২৫।
+<b>Class 7:</b> সপ্তম শ্রেণীর বই ২০২৫।
+<b>Class 8:</b> অষ্টম শ্রেণীর বই ২০২৫।
+<b>Class 9:</b> নবম শ্রেণীর বই ২০২৫।
+<b>Class 10:</b> দশম শ্রেণীর বই ২০২৫।
+<b>Class 11 & 12:</b> একাদশ ও দ্বাদশ (HSC) শ্রেণীর সকল বই।
+<br>
 
-<b>email.joytech@gmail.com</b>
+#### 🎯 উদ্দেশ্য:
+
+শিক্ষার্থীদের 📚 পড়াশোনার সুযোগ সহজতর করতে, তাদের প্রয়োজনীয় বই 🖥️ এক প্ল্যাটফর্মে এনে দেওয়া হয়েছে।
+
+⚡ ডাউনলোড করুন বোর্ড বইসমূহ ২০২৫ অ্যাপ এবং আপনার শিক্ষা জীবনকে আরও সহজ এবং আনন্দদায়ক করুন! 🚀
