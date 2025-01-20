@@ -6,8 +6,9 @@
   <a href="https://play.google.com/store/apps/details?id=com.joytech.boardbooks.nctb">
     <img src="https://texttofloss.com/wp-content/uploads/2021/01/Google-Play-Store-Button.png" alt="Download on the Play Store" width="200"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://raw.githubusercontent.com/devsakil/nctb_books_2025/download-page/nctb-books-2025.apk">
-    <img src="https://www.newglasstech.com/images/pages/Download-Button.jpg" alt="Download APK" width="200"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/028/549/489/non_2x/green-download-button-free-png.png" alt="Download APK" width="200"/>
   </a>
 </p>
 
