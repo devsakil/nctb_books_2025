@@ -1,6 +1,6 @@
 <b>APP PRIVACY POLICY :</b>
 
-Joytech Foundation (&ldquo;we&rdquo; or &ldquo;us&rdquo; or &ldquo;our&rdquo;) respects the privacy of our users (&ldquo;user&rdquo; or &ldquo;you&rdquo;). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application (the &ldquo;বোর্ড বই সমূহ&rdquo;). Please read this Privacy Policy carefully. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APPLICATION.
+Joytech Foundation (&ldquo;we&rdquo; or &ldquo;us&rdquo; or &ldquo;our&rdquo;) respects the privacy of our users (&ldquo;user&rdquo; or &ldquo;you&rdquo;). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application (the "বই সমূহ 2025"). Please read this Privacy Policy carefully. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APPLICATION.
 
 We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the &ldquo; Last updated&rdquo; date of this Privacy Policy. You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Application after the date such revised Privacy Policy is posted.
 
@@ -35,6 +35,21 @@ Having accurate information about you permits us to provide you with a smooth, e
 <b>DISCLOSURE OF YOUR INFORMATION</b>
 
 None of your data is exchanged, stored, or used by any third party or by us, other than being used by the email delivery system and by Google Drive which only saves a copy of your settings on your Google Drive account.
+
+
+
+<b>Disclaimer:</b> 
+
+This application is an independent platform and has no official connection or affiliation with any Government or private organization. It does not represent or imply endorsement by any Government entity or private institution.  
+
+The content provided within this app, including books and materials, is solely for educational purposes. The app has been designed to make free educational resources easily accessible to students and teachers.  
+
+This app is completely **ad-free (NO ADS)**, and we do not derive any financial benefit from it. Our sole purpose is to support education and provide valuable resources to students for free.  
+
+All books and resources included in the app are sourced from publicly available websites and are believed to be in the public domain. These resources are freely available for educational use and have been provided with the sole intention of promoting education.  
+
+If you have any concerns, queries, or believe that any material within this app violates copyrights or any other guidelines, please contact us at email.joytech@gmail.com. We are committed to resolving any issues promptly.  
+
 
 <b>CONTACT US</b>
 
